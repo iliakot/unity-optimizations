@@ -23,6 +23,7 @@ Useful Plugins:
 * https://github.com/Over17/UnitySystracePlugin
 * https://github.com/mtrive/ProjectAuditor
 
+Other guides:
 * Unity Official Documentation: https://docs.unity3d.com/Manual/BestPracticeGuides.html
 * Understanding iOS Memory: https://docs.google.com/document/d/1J5wbf0Q2KWEoerfFzVcwXk09dV_l1AXJHREIKUjnh3c/edit
 * Best Practices: https://docs.google.com/document/d/1dTTeWl83a9RIyg4a6OvTUCdS2mUXeIyn7po7CZkni-Q/edit
